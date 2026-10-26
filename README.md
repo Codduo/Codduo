@@ -1,20 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7626b9&height=90&section=header"/>
+<a href="https://codduo.com"><img width="100%" src="assets/topo.svg" alt="Codduo"/></a>
 
-<div align="center">
+<h3 align="center">Codduo is a Software House focused on developing web and mobile applications.</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=30&duration=4000&pause=1050&color=8C67DB&center=true&width=435&lines=print+(%22Codduo%22)" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://codduo.com"><img alt="codduo.com" src="https://img.shields.io/badge/codduo.com-3D2CFF?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+</p>
 
-</div>
-
-<h2 align='center'> About Us:</h2>
-
-<h3 align='center'>Codduo is a company focused on developing web and mobile applications.</h3>
-
-<div align="center"> 
-
-  <a href="https://codduo.com"><img align="center" alt="website" src="https://img.shields.io/badge/Codduo-9400d3?style=for-the-badge&logo=globe&logoColor=white"></a>
-
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7626b9&height=80&section=footer"/>
-
+<img width="100%" src="assets/rodape.svg"/>
